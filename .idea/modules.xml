@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/macOpenPantry.iml" filepath="$PROJECT_DIR$/macOpenPantry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/macOpenPantry.iml" filepath="$PROJECT_DIR$/.idea/macOpenPantry.iml" />
     </modules>
   </component>
 </project>
